@@ -1,0 +1,16 @@
+pip install fastapi
+pip install uvicorn
+pip intall requests
+pip install pydantic
+
+
+To run:
+python file.py
+
+
+Auto Reload
+uvicorn catalog:app --host 127.0.0.1 --port 5000
+
+PostMan Queries
+http://localhost:5002/check-availability?book_id=ISB1234
+
