@@ -5,7 +5,7 @@ app = FastAPI()
 
 professionals = {
     1:{"id": 1, "name": "Dr. Sison", "max-appointment": 2},
-    2:{"id": 2, "name": "Dr. Baeza", "max-appointment": 5}
+    2:{"id": 2, "name": "Dr. Jann", "max-appointment": 5}
 }
 
 
